@@ -22,6 +22,8 @@ I'm passionate about building intelligent software with modern AI technologies a
 ### Languages
 - Python
 - C++
+- SQL
+- C#
 - C
 
 ### Frameworks & Tools
