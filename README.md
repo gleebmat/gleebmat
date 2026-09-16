@@ -11,9 +11,7 @@ I'm passionate about building intelligent software with modern AI technologies a
 - 🎓 Robotics & Artificial Intelligence student
 - 🐍 Python & C++ developer
 - 🤖 Interested in AI Agents and Machine Learning
-- 🧠 Currently learning Neural Networks
 - 💡 Always building new projects and exploring modern technologies
-- 🎯 Goal: Become an AI Agent Engineer
 
 ---
 
@@ -44,6 +42,7 @@ I'm passionate about building intelligent software with modern AI technologies a
 
 ## 📚 Currently Learning
 
+- VHDL
 - Neural Networks
 - Deep Learning
 - AI Agent Systems
